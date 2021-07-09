@@ -1,9 +1,11 @@
 ### Hi Developers 👋
 
-<!--
-**jyoti-992/jyoti-992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 My Name is Jyoti Devi.
 I'm Business development executive in Cybrient Systems Pvt. Ltd. I have 5+ years of experience as CRE. I’m currently doing internship with Edureka as full stack developer.My  Linkdin Id - https://www.linkedin.com/in/jyoti-devi-8363737b/
+
+
+<!--
+**jyoti-992/jyoti-992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 Here are some ideas to get you started:
